@@ -12,7 +12,8 @@ header{
     display: flex;
 }
 .nekotore-main .image{
-width: 20px;
+    width: 10px;
+    height: 10px;
 }
 .nekotore-main h1{
 margin:10px;
