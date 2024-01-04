@@ -8,3 +8,13 @@ header{
     text-align: center;
     font-weight: 300;
 }
+.nekotore-main{
+    display: flex;
+}
+.nekotore-main .image{
+width: 640px;
+}
+.nekotore-main h1{
+margin:10px;
+padding:10px;
+}
