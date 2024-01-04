@@ -8,16 +8,24 @@ header{
     text-align: center;
     font-weight: 300;
 }
+
+.icon{
+    margin:10px;
+    padding:10px;
+    width: 65px;
+    height: 46px;
+}
 .nekotoremoji{
     margin:10px;
     padding:10px;
     float:left;
 }
-.icon{
-    width: 65px;
-    height: 46px;
-}
+
 .background{
     width:1000px;
     height:664px;
+}
+.occ{
+    width: 259px;
+    height:171px;
 }
