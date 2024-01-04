@@ -34,3 +34,18 @@ header{
     right:0px;
     bottom:0px;
 }
+
+.contents-item{
+    margin: right 40px;
+    float:left;
+    font-size:24px;
+    padding-top:50px;
+}
+
+.contents-item p{
+    padding-top:30px;
+}
+.contents{
+    padding-top:100px;
+    height:500px;
+}
