@@ -9,11 +9,11 @@ header{
     font-weight: 300;
 }
 .nekotoremoji{
-    float:right;
     margin:10px;
     padding:10px;
 }
 .icon{
+    float:right;
     width: 65px;
     height: 46px;
 }
