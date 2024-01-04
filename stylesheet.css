@@ -24,8 +24,13 @@ header{
 .background{
     width:1000px;
     height:664px;
+    position:relative;
+
 }
 .occ{
     width: 259px;
     height:171px;
+    position:absolute;
+    right:0px;
+    bottom:0px;
 }
