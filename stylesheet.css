@@ -11,9 +11,9 @@ header{
 .nekotoremoji{
     margin:10px;
     padding:10px;
+    float:left;
 }
 .icon{
-    float:right;
     width: 65px;
     height: 46px;
 }
