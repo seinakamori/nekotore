@@ -1,51 +1,77 @@
-header{
-    background-color: #178F70;
-    color: #FFF500;
-    font-size: 14px;
-    width: 100%;
-    height: 30px;
-    padding: 4px;
-    text-align: center;
-    font-weight: 300;
-}
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ネコトレ-ネコのしつけ専門サイト-</title>
+  <meta name="description" content="ネコのしつけをしっかりと行って豊かな生活を実現しましょう" />
+  <meta name="robots" content="noindex,nofollow" />
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
 
-.nekotore-mark{
-    margin:10px;
-    padding:10px;
+<body>
+  <header>
+    <div class="header-container">ネコのオンライン相談・カウンセリング・しつけ教室</div>
+  </header>
 
-}
-.icon{
-    width: 65px;
-    height: 46px;
-    float:left;
-}
 
-.background{
-    width:1000px;
-    height:664px;
-    position:relative;
+  <div class="nekotore-mark">
+    ネコトレ
+    <img class="icon" src="nekotore-icon.jpg">  
+  </div>
+  
+  <div class="nekotore-main">
 
-}
-.occ{
-    width: 259px;
-    height:171px;
-    position:absolute;
-    right:0px;
-    bottom:0px;
-}
+      <img class="background" src="https://github.com/seinakamori/nekotore/assets/155560478/a32ceedd-4fe5-4b4e-b21a-930a25014095">
+      <img class="occ" src="https://github.com/seinakamori/nekotore/assets/155560478/c0fc0225-fad8-4a33-b01d-21dcef789b23">
+  </div>
 
-.contents-item{
-    margin: right 40px;
-    float:left;
-    font-size:24px;
-    padding-top:50px;
-    width:25%;
-}
+  <div class="contents">CAT COUNSELOR</div>
 
-.contents-item p{
-    padding-top:30px;
-}
-.contents{
-    padding-top:100px;
-    height:500px;
-}
+  <div class="contents-item">
+       <img class="doumaesan" src="doumaesan.jpg">    
+       <p>堂前カウンセラー※プロカウンセラー</p>
+  </div>
+  
+  <div class="contents-item">
+       <img class="neko1" src="neko1.jpg">
+       <p>黒猫カウンセラー</p>
+  </div>
+
+  <div class="neko2" src="neko2,jpg">
+       <img class="neko2" src="neko2.jpg">
+       <p>茶猫カウンセラー</p>
+  </div>
+
+  <div class="neko3" src="neko3.jpg">
+       <img class="neko3" src="neko3.jpg">
+       <p>タマカウンセラー</p>
+  </div>
+
+
+
+     <a1>猫のしつけは、飼い主様が猫の行動を理解するところからです。動物行動学の観点と、今までの経験から、飼い主様の環境に合った最適なアドバイスをさせて頂きます。なんでも相談してください！</a1>
+     <a2>猫は黒くないと意味が無い。そもそも人間と一緒に住んでいては、今後の猫の発展は無いでしょう。外の新しい世界に飛び出してっ！</a2>
+     <a3>何気ない毎日の中に、あなたの潜在能力を引き出すカギがあります。また、私の持っている壺を購入することで、その力を何倍にも引き出せます。茶色い猫は性格が良いです。</a3>
+     <a4>サザエさん見てないの？タマ色以外猫とは認めねぇ。</a4>
+  </div>
+
+  <footer>
+    <div class="nekotore-footer">
+        <img class="icon" src="nekotore-icon.jpg">  
+        <h7>ネコトレ</h7>
+          <a5>特定取引法に基づく表記
+              利用規約
+              プライバシーポリシー
+          </a5>
+      <img src="***********">
+      <img src="***********">
+      <img src="***********">
+      
+    </div>
+  </footer>
+
+</body>
+</html>
