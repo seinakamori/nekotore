@@ -41,9 +41,10 @@ header{
 }
 
 .txt{
-    width:60%;
+    width:25%;
     display:inline-block;
     font-size:15px;
+    background-color:#F9F9F0;
 }
 
 .footer{
