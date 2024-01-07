@@ -58,5 +58,5 @@ header{
 }
 .footer-list ul{
   float:right;
-  list-style: none;
+  list-style-type: none;
 }
