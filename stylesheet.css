@@ -55,7 +55,7 @@ header{
 .footer-icon{
   float:left;
 }
-.footer-list{
+.footer-list ul{
   float:right;
   list-style: none;
 }
