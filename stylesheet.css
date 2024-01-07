@@ -18,15 +18,6 @@ header{
     float:left;
 }
 
-.background{
-    position:relative;
-
-}
-.occ{
-    position:absolute;
-    right:0px;
-    bottom:0px;
-}
 
 .contents-item{
     margin: right 40px;
