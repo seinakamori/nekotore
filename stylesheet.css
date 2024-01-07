@@ -14,7 +14,7 @@ header{
     padding:10px;
 }
 
-.contents{
+.contents p{
   font-size:30px;
   font-weight:bold;
 
@@ -38,5 +38,5 @@ header{
 width:80%;
 display:inline-block;
 margin:20px;
-font-size:12px;
+font-size:8px;
 }
