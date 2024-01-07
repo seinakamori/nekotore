@@ -14,16 +14,22 @@ header{
     padding:10px;
 }
 
+.contents{
+  font-size:30px;
+
+}
+
 .contents-item{
     margin: right 40px;
     float:left;
     font-size:24px;
     padding-top:50px;
     width:25%;
+    font-size:25px;
 }
 
 .contents-item p{
-    padding-top:30px;
+    padding-top:10px;
 }
 .contents{
     padding-top:100px;
