@@ -14,7 +14,7 @@ header{
     padding:10px;
 }
 
-.contents p{
+.name{
   font-size:30px;
   font-weight:bold;
 
@@ -27,7 +27,6 @@ header{
     padding-top:50px;
     width:25%;
     font-size:20px;
-    font-weight:bold;
 }
 
 .contents-item p{
