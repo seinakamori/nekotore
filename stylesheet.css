@@ -49,6 +49,13 @@ header{
 
 .footer{
     margin:10px;
-    
  
+}
+
+.footer-icon{
+  float:left;
+}
+.footer-list{
+  float:right;
+  list-style: none;
 }
