@@ -35,6 +35,7 @@ header{
 }
 
 .contents-item p{
+    height:200px;
     padding-top:10px;
     margin:0px;
 }
