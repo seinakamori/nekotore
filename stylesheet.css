@@ -50,7 +50,7 @@ header{
 footer{
     height:120px;
     padding:40px;
- 
+    border-top:2px solid #178F70;
 }
 
 .footer-icon{
