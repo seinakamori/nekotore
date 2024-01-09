@@ -23,7 +23,6 @@ header{
 .name{
   font-size:30px;
   font-weight:bold;
-  height:50px;
 
 }
 
@@ -36,28 +35,29 @@ header{
 }
 
 .contents-item p{
-    height:200px;
+    height:50px;
     padding-top:10px;
     margin:0px;
 }
 
 .txt{
-    width:60%;
+    width:80%;
     display:inline-block;
     font-size:15px;
     background-color:#F9F9F0;
 }
 
-footer{
-    height:120px;
-    padding:40px;
-    border-top:2px solid #178F70;
-}
+.footer{
+  height:120px;
+  padding:40px;
+  border-top:2px solid #178F70;
 
-.footer-icon{
+}
+.icon{
   float:left;
   margin-top: 100px;
 }
+
 .footer-list ul{
   list-style-type: none;
 }
