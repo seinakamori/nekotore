@@ -1,80 +1,73 @@
-header{
-    background-color: #178F70;
-    color: #FFF500;
-    font-size: 14px;
-    width: 100%;
-    height: 30px;
-    padding: 4px;
-    text-align: center;
-    font-weight: 300;
-}
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ネコトレ-ネコのしつけ専門サイト-</title>
+  <meta name="description" content="ネコのしつけをしっかりと行って豊かな生活を実現しましょう" />
+  <meta name="robots" content="noindex,nofollow" />
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
 
-.container{
-  position:relative;
-  padding-bottom:60px;
-  box-sizing:border-box;
-  min-height:180vh;
-}
+<body>
+ <div class="container">
+    <header>
+      <div class="header-container">ネコのオンライン相談・カウンセリング・しつけ教室</div>
+    </header>
+  <span class="fa fa-bars menu-icon"></span>
 
-.nekotore-mark{
-    margin:10px;
-    padding:10px;
-}
+    <div class="nekotore-mark">
+      <img class="icon" src="nekotore-icon2.jpg" width="291px" height="64px">  
+    </div>
+  
+    <div class="nekotore-main">
+      <img class="background" src="nekotore-gazou2.jpg" width="1079px" height="720px">
+    </div>
 
-.contents-name{
-  font-weight: bold;
-  font-size:50px;
-  margin-bottom: 5px;
-}
+   <div class="contents">
+     <p class="contents-name">CAT COUNSELOR</p>
 
-.name{
-  font-size:30px;
-  font-weight:bold;
+      <div class="contents-item">
+         <img class="doumaesan" src="doumaesan.jpg" width="400px" height="400px">
+         <p class="name">堂前カウンセラー</p>
+         <p class="txt">猫のしつけは、飼い主様が猫の行動を理解するところからです。動物行動学の観点と、今までの経験から、飼い主様の環境に合った最適なアドバイスをさせて頂きます。なんでも相談してください！</p>
+      </div>
+  
+      <div class="contents-item">
+         <img class="neko1" src="neko1.jpg" width="400px" height="400px">
+         <p class="name">黒猫カウンセラー</p>
+         <p class="txt">猫のしつけは、飼い主様が猫の行動を理解するところからです。動物行動学の観点と、今までの経験から、飼い主様の環境に合った最適なアドバイスをさせて頂きます。なんでも相談してください！</p>
+      </div>
 
-}
+      <div class="contents-item">
+          <img class="neko2" src="neko2.jpg" width="400px" height="400px">
+          <p class="name">茶猫カウンセラー</p>
+          <p class="txt">猫のしつけは、飼い主様が猫の行動を理解するところからです。動物行動学の観点と、今までの経験から、飼い主様の環境に合った最適なアドバイスをさせて頂きます。なんでも相談してください！</p>
+      </div>
 
-.contents-item{
-    margin: right 40px;
-    float:left;
-    font-size:24px;
-    width:25%;
-    font-size:20px;
-}
-
-.contents-item p{
-    height:50px;
-    padding-top:10px;
-    margin:0px;
-}
-
-.txt{
-    width:80%;
-    display:inline-block;
-    font-size:15px;
-    background-color:#F9F9F0;
-}
-
-footer{
-  position: absolute;
-  bottom:0;
-  height:120px;
-  border-top:5px solid #178F70;
-  width:100%;
-
-}
+      <div class="contents-item">
+          <img class="neko3" src="neko3.jpg" width="400px" height="400px">
+          <p class="name">タマカウンセラー</p>
+          <p class="txt">猫のしつけは、飼い主様が猫の行動を理解するところからです。動物行動学の観点と、今までの経験から、飼い主様の環境に合った最適なアドバイスをさせて頂きます。なんでも相談してください！</p>
+      </div>
+   </div>
 
 
-.footer-list{
-  list-style-type: none;
-  float:right;
-}
+    <footer>
+      <img class="icon" src="nekotore-icon2.jpg" width="291px" height="64px"> 
+      
+       <ul class="footer-list">
+         <li>特定取引法に基づく表記</li>
+         <li>利用規約</li>
+         <li>プライバシーポリシー</li>
+       </ul>
 
-@media(max-width:670px){
-.contents-item{
-  width:50%;
-}
-}
+      </footer>
 
-*{
-  box-sizing:border-box;
-}
+ </div>
+</body>
+
+</html>
+
