@@ -59,11 +59,22 @@ footer{
   bottom:0;
   height:120px;
   border-top:5px solid #178F70;
+  width:100%;
 
 }
 
 
 .footer-list{
   list-style-type: none;
-  float:left
+  float:right;
+}
+
+@media(max-width:670px){
+.contents-item{
+  width:50%;
+}
+}
+
+*{
+  box-sizing:border-box;
 }
