@@ -79,25 +79,21 @@ footer{
 
 @media(max-width:670px){
 .contents-item{
-  width:100%;
+  width:50%;
 }
 footer{
 text-align: center;
 }
 .name{
-  width: 100%;
+  width: 50%;
 }
 .txt{
-  width:100%;
+  width:50%;
 }
 .menu-icon{
   display:block;
 }
 
-}
-
-*{
-  box-sizing:border-box;
 }
 
 
